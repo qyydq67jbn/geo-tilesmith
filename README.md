@@ -76,6 +76,7 @@ stale build is visible.
 tilesmith/osm.py      streaming extract parser, tag filtering, node table
 tilesmith/geom.py     mercator projection, Douglas-Peucker, tile bucketing
 tilesmith/config.py   profile loading and validation
+tilesmith/stats/      retention per layer, to catch features lost to simplification
 tilesmith/pipeline.py CLI and stage wiring, manifest counters
 profiles/             checked-in layer profiles
 ```
