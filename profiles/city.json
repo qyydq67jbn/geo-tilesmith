@@ -1,0 +1,16 @@
+{
+  "layers": {
+    "roads": {
+      "tags": {
+        "highway": ["primary", "secondary", "tertiary", "residential"]
+      },
+      "min_zoom": 12
+    },
+    "waterway": {
+      "tags": {
+        "waterway": ["river", "canal", "stream"]
+      },
+      "min_zoom": 10
+    }
+  }
+}
